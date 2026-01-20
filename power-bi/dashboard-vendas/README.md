@@ -44,9 +44,6 @@ Durante o desenvolvimento do dashboard, foi possível realizar análises como:
 
 ## 🖼️ Visão do Dashboard
 ![Dashboard de Vendas](imagens/preview-dashboard1.png)
-
-## 🖼️ Visão do Dashboard
-![Dashboard Vista Geral](imagens/preview-dashboard1.png)  
 ![Dashboard Detalhado](imagens/preview-dashboard2.png)
 
 
