@@ -36,9 +36,9 @@ Esse indicador é útil em áreas de crédito e cobrança para apoiar decisões 
 
 ### 📊 Resultado das Consultas 
 
-![Resultado](imagens/consulta_sql_1)
+![Resultado](imagens/consulta_sql_1.png)
 
-(imagens/consulta_sql_2)
+(imagens/consulta_sql_2.png)
 
 
 ---
