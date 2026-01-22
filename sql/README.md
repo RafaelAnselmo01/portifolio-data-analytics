@@ -38,7 +38,7 @@ Esse indicador é útil em áreas de crédito e cobrança para apoiar decisões 
 
 ![Resultado](imagens/consulta_sql_1.png)
 
-(imagens/consulta_sql_2.png)
+![Resultado](imagens/consulta_sql_2.png)
 
 
 ---
