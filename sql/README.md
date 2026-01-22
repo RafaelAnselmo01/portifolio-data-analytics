@@ -34,6 +34,13 @@ Aqui eu construo um pequeno banco de dados fictício e utilizo **SQL** para anal
 
 Esse indicador é útil em áreas de crédito e cobrança para apoiar decisões de priorização.
 
+### 📊 Resultado das Consultas 
+
+![Resultado](imagens/consulta_sql_1)
+
+(imagens/consulta_sql_2)
+
+
 ---
 
 ## ▶ Como executar o projeto
