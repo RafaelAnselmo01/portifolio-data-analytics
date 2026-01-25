@@ -6,7 +6,6 @@ Aqui organizo meus projetos de **SQL, Power BI e Excel**, voltados para vagas de
 ## Estrutura
 - /sql — projetos SQL (queries, datasets, documentação)
 - /power-bi — dashboards Power BI (.pbix)
-- /excel — planilhas e dashboards Excel
 
 Vou atualizar os projetos à medida que concluo novos trabalhos.
 
